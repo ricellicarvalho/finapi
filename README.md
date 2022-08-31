@@ -88,7 +88,7 @@ Before starting :checkered_flag:, you need to have the [Git](https://git-scm.com
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ricellicarvalho/finapi
+$ git clone git@github.com:ricellicarvalho/finapi.git
 
 # Enter the folder
 $ cd finapi
